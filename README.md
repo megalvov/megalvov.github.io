@@ -8,6 +8,7 @@ Price and data...
 посилання на фото та файли з документацією, на деякі позиції прайсові ціни нижчі ніж на сайті
 	
 Прайс в форматі Excel - http://megalvov.github.io/Price.xlsx
+
 Прайс в форматі PDF   - http://megalvov.github.io/Price.pdf
 
 
